@@ -10,7 +10,7 @@ A simple tutorial of Conditional Flow Matching Models.
 
 (2) Install dependencies via following command
 ```
-pip install -r requirements.txt
+sh install.sh
 ```
 
 # [Expremental Results]
