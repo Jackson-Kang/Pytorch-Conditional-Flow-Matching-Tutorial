@@ -1,6 +1,5 @@
 # Pytorch Conditional-Flow-Matching(CFM) Tutorial
-A simple tutorial of Conditional Flow Matching Models.
-* [Conditional Flow Matching Models](https://arxiv.org/abs/2210.02747) (CFMs, Y. Lipman et. al., 2022)
+A simple tutorial of [Conditional Flow Matching Models](https://arxiv.org/abs/2210.02747) (CFMs, Y. Lipman et. al., 2022).
 
 # Prerequisites
 (1) Download Pytorch and etcs.
